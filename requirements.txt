@@ -1,0 +1,14 @@
+clarifai
+streamlit
+langchain
+streamlit-card
+moviepy==2.0.0.dev2
+imageio==2.25.1
+numpy
+pandas
+matplotlib
+pillow==9.5.0
+pydub
+scipy
+python-dotenv
+resemble
